@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Wolf and Boy Events"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Events made simple."
+  location         : "Central Coast, NSW"
   email            :
   links:
     - label: "Email"
