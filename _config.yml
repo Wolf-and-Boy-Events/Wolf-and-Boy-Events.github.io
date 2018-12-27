@@ -109,7 +109,7 @@ author:
   location         : "Central Coast, NSW"
   email            : "test@email.com"
   links:
-    - label: "Email"
+    - label: "test@email.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
