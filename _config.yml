@@ -112,6 +112,8 @@ author:
     - label: "test@email.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
+    - label: "0401944450"
+      icon: "fas fa-fw fa-phone-square"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
