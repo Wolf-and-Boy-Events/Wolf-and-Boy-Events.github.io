@@ -2,5 +2,5 @@
 title: "Services"
 permalink:  /services/
 header:
-  image: "images/contact.jpg"
+  image: "images/services.jpg"
 ---
