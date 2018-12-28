@@ -113,10 +113,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:test@gmail.com
       # url: mailto:your.name@email.com
-    - label: "Phone"
-      icon: "fas fa-fw fa-phone-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+    - label: "Phone: 040430540"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
