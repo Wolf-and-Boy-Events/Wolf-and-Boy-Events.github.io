@@ -1,6 +1,6 @@
 ---
-title: "More"
-permalink:  /more/
+title: "Services"
+permalink:  /services/
 header:
   image: "images/contact.jpg"
 ---
