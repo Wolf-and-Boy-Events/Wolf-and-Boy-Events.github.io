@@ -2,7 +2,7 @@
 title: "About"
 permalink:  /about/
 header:
-  image: "images/contact.jpg"
+  image: "images/about.jpg"
 ---
 
 I love Abe big time.
