@@ -110,7 +110,7 @@ author:
   email            :
   links:
     - label: "test@gmail.com"
-      icon: "fas fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope-square"
       url: mailto:test@gmail.com
       # url: mailto:your.name@email.com
     - label: "040430540"
