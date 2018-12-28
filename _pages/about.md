@@ -3,7 +3,9 @@ title: "About"
 permalink:  /about/
 header:
   image: "images/about.jpg"
+
 ---
+
 
 Boasting over 8 years of experience, Pyrite Events is guided by unmatched talent and prides itself on professionalism.
 
