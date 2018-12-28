@@ -114,7 +114,7 @@ author:
       url: mailto:test@gmail.com
       # url: mailto:your.name@email.com
     - label: "Phone: 040430540"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-phone"
       url: "040430540"
       # url: "https://your-website.com"
     - label: "Twitter"
